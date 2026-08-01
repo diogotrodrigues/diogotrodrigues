@@ -27,7 +27,7 @@ The project models interoperability as a graph optimization problem and develops
 | Project | Description | Stack |
 |----------|-------------|-------|
 | **[DepChain](https://github.com/diogotrodrigues/DepChain)** | Byzantine Fault Tolerant blockchain implementing the **HotStuff** consensus protocol with EVM execution and BLS threshold signatures. | Java · Hyperledger Besu |
-| **[DidaMeetings](https://github.com/diogotrodrigues/DidaMeetings)** | Fault-tolerant distributed meeting management system implementing **Multi-Paxos** replication and **Vertical Paxos** reconfiguration over gRPC. | Java · gRPC · Protocol Buffers |
+| **[DidaMeetings](https://github.com/diogotrodrigues/Dida_Meetings)** | Fault-tolerant distributed meeting management system implementing **Multi-Paxos** replication and **Vertical Paxos** reconfiguration over gRPC. | Java · gRPC · Protocol Buffers |
 | **[CivicEcho](https://github.com/diogotrodrigues/CivicEcho)** | Anonymous reporting platform deployed across isolated subnets using hybrid AES-GCM/RSA encryption and mutual TLS authentication. | Java · Networking · Cryptography |
 | **[VPPaaS](https://github.com/diogotrodrigues/Virtual_PowerPlant_Platform)** | Cloud-native Virtual Power Plant platform composed of microservices orchestrated with Kafka, Camunda, Terraform, and AWS infrastructure. | Java · Kafka · Terraform · AWS |
 
