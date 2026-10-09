@@ -16,7 +16,7 @@ I enjoy designing systems that remain reliable under failures, scale across dist
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | Description | Stack |
 |----------|-------------|-------|
