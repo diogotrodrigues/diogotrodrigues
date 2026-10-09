@@ -12,11 +12,7 @@ My current research explores **security-aware path computation for cross-chain b
 
 ## Research
 
-### Security-Aware Multi-Criteria Routing for Cross-Chain Bridge Aggregation *(MSc Thesis, Instituto Superior Técnico)*
-
-Modern blockchain ecosystems increasingly rely on bridge aggregators to move assets across heterogeneous networks. My research investigates how routing decisions can jointly optimize cost, latency, liquidity, and security under adversarial conditions.
-
-The project models interoperability as a graph optimization problem and develops secure routing algorithms capable of adapting to dynamic network conditions while satisfying predefined security constraints.
+### Adaptive mulTi-criteria routing for cross-chain interoperabiLity and Aggregation Systems *(MSc Thesis, Instituto Superior Técnico)*
 
 *Areas touched: distributed systems · graph optimization · secure routing · blockchain interoperability · adversarial security models*
 
