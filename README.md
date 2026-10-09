@@ -6,8 +6,6 @@ My work focuses on building reliable distributed systems through consensus algor
 
 I enjoy designing systems that remain reliable under failures, scale across distributed environments, and balance correctness with performance.
 
-My current research explores **security-aware path computation for cross-chain bridge aggregators**, combining graph optimization, distributed systems, and adversarial security models to improve interoperability across blockchain networks.
-
 ---
 
 ## Research
@@ -50,12 +48,6 @@ My current research explores **security-aware path computation for cross-chain b
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## Reading
-
-- **[Bridge Aggregators: Secure Multi-Criteria Routing for Cross-Chain Interoperability](https://www.dpss.inesc-id.pt/~mpc/pubs/BridgeAggregators.pdf)**
 
 ---
 
